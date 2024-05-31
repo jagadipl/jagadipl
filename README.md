@@ -1,6 +1,5 @@
-# Hi there, I'm [JAGADIP LAMSAL]! 👋
+# Hi there, I'm JAGADIP LAMSAL! 👋
 
-![Profile Banner](https://avatars.githubusercontent.com/u/142283589?v=4)
 
 I'm a passionate Django Developer based in the USA, seeking exciting opportunities to contribute and grow in a dynamic work environment.
 
