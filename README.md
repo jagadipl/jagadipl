@@ -36,7 +36,7 @@ A comprehensive application for managing personal or business finances, built wi
 ## 📫 Get in Touch
 
 - **Email:** [jagadiplamsal@gmail.com](mailto:jagadiplamsal@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jagadip-lamsal-3770662a7/)
+- **LinkedIn:** [Jagadip Lamsal](https://www.linkedin.com/in/jagadip-lamsal-3770662a7/)
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jagadipl&show_icons=true&theme=radical)
